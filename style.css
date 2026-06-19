@@ -1,0 +1,7 @@
+td,th{
+    border: 1px solid green;
+    font-size: 40px;
+}
+table{
+    border: 1px solid rgb(120, 16, 122);
+}
